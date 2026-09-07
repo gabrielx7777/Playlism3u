@@ -105,9 +105,9 @@ http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/479.m3u8
 http:\/\/79.127.238.228:14093\/
 #EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/5FPUiOf.png" group-title="NOTÍCIAS",Jovem Pan
 http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/524327
-#EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS",Record News
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_recordnews0001.png" group-title="NOTÍCIAS",Record News
 http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/488.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS",Record News OP2
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_recordnews0001.png" group-title="NOTÍCIAS",Record News OP2
 https:\/\/rnw-rn.otteravision.com\/rnw\/rn\/rnw_rn.m3u8
 
 # ==============================================
