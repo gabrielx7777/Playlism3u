@@ -271,20 +271,22 @@ http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/380749.m3u8
 # ==============================================
 # 👶 INFANTIL
 # ==============================================
-#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Canal Infantil 1
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Canal Infantil 2
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Canal Infantil 3
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Canal Infantil 4
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Canal Infantil 5
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Canal Infantil 6
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Canal Infantil 7
-COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/4TEXo8R.png" group-title="INFANTIL",Adult Swim
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/376344.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/4TEXo8R.png" group-title="INFANTIL",Adult Swim op2
+https:\/\/sinal.cc\/link\/direto.m3u8?cc=y&categoria=live&folder=docs&canal=adultswim
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_cartoon0001.png" group-title="INFANTIL",Cartoon Network
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/352.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_cartoon0001.png" group-title="INFANTIL",Cartoon Network op2
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/21230.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_cartoon0001.png" group-title="INFANTIL",Cartoon Network op 3
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/351135
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Cartoonito
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/110683.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Cartoonito op2
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/110684.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Cartoonito op3
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/351138
 #EXTINF:-1 tvg-logo="" group-title="INFANTIL",Canal Infantil 8
 COLE_AQUI_O_LINK_M3U8
 
