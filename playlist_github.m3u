@@ -135,26 +135,30 @@ http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/222.m3u8
 http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/563030.m3u8
 #EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_espn0001.png" group-title="ESPN",ESPN 5 op2
 http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350891
-#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN 6
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_espn0001.png" group-title="ESPN",ESPN 6
 http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/563035.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ESPN",ESPN 6 op2
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_espn0001.png" group-title="ESPN",ESPN 6 op2
 http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350894
 
 # ==============================================
 # 📺 HBO MAX
 # ==============================================
-#EXTINF:-1 tvg-logo="" group-title="HBO MAX",HBO Max
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="HBO MAX",HBO
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="HBO MAX",HBO 2
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="HBO MAX",HBO Family
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="HBO MAX",HBO Mundi
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="HBO MAX",HBO Plus
-COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/GZSYVVf.png" group-title="HBO MAX",HBO Max
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/121598.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/GZSYVVf.png" group-title="HBO MAX",HBO Max OP2
+http:\/\/191.96.224.143:80\/live\/92370341211\/30082393260\/2335017
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/GZSYVVf.png" group-title="HBO MAX",HBO Max 2
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/121600.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/GZSYVVf.png" group-title="HBO MAX",HBO Max 2 OP2
+http:\/\/191.96.224.143:80\/live\/92370341211\/30082393260\/2335018
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/GZSYVVf.png" group-title="HBO MAX",HBO Max 3
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/121604.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/GZSYVVf.png" group-title="HBO MAX",HBO Max 3 OP 2
+http:\/\/191.96.224.143:80\/live\/92370341211\/30082393260\/2335019
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/GZSYVVf.png" group-title="HBO MAX",HBO Max 4
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/121610.ts
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/GZSYVVf.png" group-title="HBO MAX",HBO Max 4 OP 2
+http:\/\/191.96.224.143:80\/live\/92370341211\/30082393260\/2335020
 
 # ==============================================
 # 📺 HBO
