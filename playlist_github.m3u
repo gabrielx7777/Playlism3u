@@ -702,18 +702,53 @@ COLE_AQUI_O_LINK_M3U8
 # ==============================================
 # 🎭 VARIEDADES
 # ==============================================
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Variedades 1
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Variedades 2
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Variedades 3
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Variedades 4
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Variedades 5
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Variedades 6
-COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gplaynovelas0001.png" group-title="VARIEDADES",Globoplay Novelas
+http://79.127.238.228:14455
+
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_multishow0001.png" group-title="VARIEDADES",Multishow
+http://dns.explouddev.com:80/live/632270679/F823j7133R/377241.m3u8
+
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gnt0001.png" group-title="VARIEDADES",GNT
+http://dns.explouddev.com:80/live/632270679/F823j7133R/377238.m3u8
+
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_primeboxbrazil0001.png" group-title="VARIEDADES",Prime Box Brazil
+http://dns.explouddev.com:80/live/632270679/F823j7133R/537632.m3u8
+
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_lifetime0001.png" group-title="VARIEDADES",Lifetime
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2488.m3u8
+
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_curta0001.png" group-title="VARIEDADES",Curta!
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2612.m3u8
+
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_maisglobosat0001.png" group-title="VARIEDADES",Modo Viagem
+http://dns.explouddev.com:80/live/632270679/F823j7133R/89181.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BOznDVO.png" group-title="VARIEDADES",TLC
+http://dns.explouddev.com:80/live/632270679/F823j7133R/728.m3u8
+
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_bis0001.png" group-title="VARIEDADES",Bis
+http://dns.explouddev.com:80/live/632270679/F823j7133R/376504.m3u8
+
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_foodnetwork0001.png" group-title="VARIEDADES",Food Network
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2480.m3u8
+
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_fishtv0001.png" group-title="VARIEDADES",Fish TV
+http://dns.explouddev.com:80/live/632270679/F823j7133R/248.m3u8
+
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_travelboxbrazil0001.png" group-title="VARIEDADES",Travel Box Brazil
+http://dns.explouddev.com:80/live/632270679/F823j7133R/376353.m3u8
+
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_fashiontv0001.png" group-title="VARIEDADES",Fashion TV
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2476.m3u8
+
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_musicboxbr0001.png" group-title="VARIEDADES",Music Box Brazil
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2520.m3u8
+
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tracebrasil0001.png" group-title="VARIEDADES",Trace Brasil
+http://dns.explouddev.com:80/live/632270679/F823j7133R/2532.m3u8
+
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_drivechannel0001.png" group-title="VARIEDADES",Drive Channel TV
+https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Variedades 7
 COLE_AQUI_O_LINK_M3U8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Variedades 8
