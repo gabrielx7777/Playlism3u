@@ -47,6 +47,44 @@ http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/707.m3u8
 http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/705.m3u8
 #EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_space0001.png" group-title="FILMES",Space op3
 http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/524405
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_studiochannel0001.png" group-title="FILMES",Studio Univesal
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/713.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_studiochannel0001.png" group-title="FILMES",Studio Univesal op2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/524409
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_tcm0001.png" group-title="FILMES",TCM
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/740.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_tcm0001.png" group-title="FILMES",TCM opçao 2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/524419
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_tnt0001.png" group-title="FILMES",TNT
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/733.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_tnt0001.png" group-title="FILMES",TNT opçao 2
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/731.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_tnt0001.png" group-title="FILMES",TNT opçao 3
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/524421
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/bzOhQNq.png" group-title="FILMES",TNT Novelas
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/264555.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/bzOhQNq.png" group-title="FILMES",TNT Novelas op2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/524425
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_tntseries0001.png" group-title="FILMES",TNT Séries
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/738.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_tntseries0001.png" group-title="FILMES",TNT Séries op2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/524429
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_universaltv0001.png" group-title="FILMES",Universal TV
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/743.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_universaltv0001.png" group-title="FILMES",Universal TV OP2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/524435
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/sdoR43Z.png" group-title="FILMES",USA
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/718.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/sdoR43Z.png" group-title="FILMES",USA opçao2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/3267343
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_warner0001.png" group-title="FILMES",Warner
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/749.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_warner0001.png" group-title="FILMES",Warner opçao 2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/524440
+
+
+
+
 
 
 
