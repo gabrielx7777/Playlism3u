@@ -196,22 +196,36 @@ COLE_AQUI_O_LINK_M3U8
 # ==============================================
 # ⚽ PREMIERE
 # ==============================================
-#EXTINF:-1 tvg-logo="" group-title="PREMIERE",Premiere
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="PREMIERE",Premiere 2
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="PREMIERE",Premiere 3
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="PREMIERE",Premiere 4
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="PREMIERE",Premiere 5
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="PREMIERE",Premiere 6
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="PREMIERE",Premiere 7
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="PREMIERE",Premiere 8
-COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_premiere0001.png" group-title="PREMIERE",Premiere
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/494.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_premiere0001.png" group-title="PREMIERE",Premiere OP 2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350906
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_premiere0001.png" group-title="PREMIERE",Premiere 2
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/499.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_premiere0001.png" group-title="PREMIERE",Premiere 2 OP2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350909
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_premiere0001.png" group-title="PREMIERE",Premiere 3
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/504.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_premiere0001.png" group-title="PREMIERE",Premiere 3 OP2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350912
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_premiere0001.png" group-title="PREMIERE",Premiere 4
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/509.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_premiere0001.png" group-title="PREMIERE",Premiere 4 OP2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350915
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_premiere0001.png" group-title="PREMIERE",Premiere 5
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/514.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_premiere0001.png" group-title="PREMIERE",Premiere 5 OP2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350918
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_premiere0001.png" group-title="PREMIERE",Premiere 6
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/524.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_premiere0001.png" group-title="PREMIERE",Premiere 6 OP2
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/519.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_premiere0001.png" group-title="PREMIERE",Premiere 7
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/524.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_premiere0001.png" group-title="PREMIERE",Premiere 7 OP2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/351780
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_premiere0001.png" group-title="PREMIERE",Premiere 8
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/380749.m3u8
 
 # ==============================================
 # 👶 INFANTIL
