@@ -163,18 +163,36 @@ http:\/\/191.96.224.143:80\/live\/92370341211\/30082393260\/2335020
 # ==============================================
 # 📺 HBO
 # ==============================================
-#EXTINF:-1 tvg-logo="" group-title="HBO",HBO
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="HBO",HBO 2
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="HBO",HBO Family
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="HBO",HBO Mundi
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="HBO",HBO Plus
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="HBO",HBO Pop
-COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_hbo0001.png" group-title="HBO",HBO
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/18751.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_hbo0001.png" group-title="HBO",HBO OP 2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350862
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_hbo0001.png" group-title="HBO",HBO 2
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/18755.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_hbo0001.png" group-title="HBO",HBO 2 OP2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350856
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_hbofamily0001.png" group-title="HBO",HBO Family
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/18759.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_hbofamily0001.png" group-title="HBO",HBO Family OP2
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/18760.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_hbofamily0001.png" group-title="HBO",HBO Family OP3
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350859
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_hboplus0001.png" group-title="HBO",HBO Plus
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/18764.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_hboplus0001.png" group-title="HBO",HBO Plus OP2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350876
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_hbopop0001.png" group-title="HBO",HBO Pop
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/18779.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_hbopop0001.png" group-title="HBO",HBO Pop op2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350867
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_hbosignature0001.png" group-title="HBO",HBO Signature
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/18767.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_hbosignature0001.png" group-title="HBO",HBO Signature OP2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350871
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_hbomundi0001.png" group-title="HBO",HBO Xtreme
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/18775.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_hbomundi0001.png" group-title="HBO",HBO Xtreme OP2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/350873
 
 # ==============================================
 # 🎬 TELECINE
