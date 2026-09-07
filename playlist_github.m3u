@@ -91,22 +91,24 @@ COLE_AQUI_O_LINK_M3U8
 # ==============================================
 # 📰 NOTÍCIAS
 # ==============================================
-#EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS",Canal de Notícias 1
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS",Canal de Notícias 2
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS",Canal de Notícias 3
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS",Canal de Notícias 4
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS",Canal de Notícias 5
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS",Canal de Notícias 6
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS",Canal de Notícias 7
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS",Canal de Notícias 8
-COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_bandnews0001.png" group-title="NOTÍCIAS",Band News
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/469.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_bandnews0001.png" group-title="NOTÍCIAS",Band News op2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/524311
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_cnnbrasil0001.png" group-title="NOTÍCIAS",CNN Brasil
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/474.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_cnnbrasil0001.png" group-title="NOTÍCIAS",CNN Brasil OP2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/524318
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_globonews0001.png" group-title="NOTÍCIAS",Globo News
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/479.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_globonews0001.png" group-title="NOTÍCIAS",Globo News op2
+http:\/\/79.127.238.228:14093\/
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/5FPUiOf.png" group-title="NOTÍCIAS",Jovem Pan
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/524327
+#EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS",Record News
+http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/488.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTÍCIAS",Record News OP2
+https:\/\/rnw-rn.otteravision.com\/rnw\/rn\/rnw_rn.m3u8
 
 # ==============================================
 # 🏎️ ESPN
