@@ -1,0 +1,9 @@
+#EXTM3U
+
+# Exemplo de entrada:
+#EXTINF:-1 group-title="TV ABERTA",Nome do Canal
+https://SEU-LINK-AUTORIZADO-AQUI
+
+# Cole as demais entradas mantendo o formato:
+#EXTINF:-1 group-title="CATEGORIA",Nome do Canal
+URL_DO_STREAM
