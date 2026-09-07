@@ -85,8 +85,31 @@ http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/524440
 # ==============================================
 # 🏆 ESPORTES
 # ==============================================
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",NOME DO CANAL
-COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_appletv0001.png" group-title="ESPORTES",Apple TV
+http:\/\/dns.explouddev.com:80\/live\/501212992\/G1Dw4f\/274650.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_appletv0001.png" group-title="ESPORTES",Apple TV op 2
+http:\/\/dns.explouddev.com:80\/live\/501212992\/G1Dw4f\/274649.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_bandsports0001.png" group-title="ESPORTES",Band Sports
+http:\/\/dns.explouddev.com:80\/live\/501212992\/G1Dw4f\/235.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_bandsports0001.png" group-title="ESPORTES",Band Sports op 2
+http:\/\/191.96.224.143:80\/live\/92370341211\/30082393260\/330206
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/Vc6Y5N9.png" group-title="ESPORTES",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_canalgoat0002.png" group-title="ESPORTES",Canal Goat
+https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_combate0001.png" group-title="ESPORTES",Combate
+http:\/\/dns.explouddev.com:80\/live\/501212992\/G1Dw4f\/240.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_combate0001.png" group-title="ESPORTES",Combate op2
+http:\/\/191.96.224.143:80\/live\/92370341211\/30082393260\/17574
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_getv0001.png" group-title="ESPORTES",GE TV
+https:\/\/dfr80qz435crc.cloudfront.net\/EFGH\/Amagi\/Globo\/GE_Fast_BR\/GE_Fast.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_getv0001.png" group-title="ESPORTES",GE TV OP2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/351528
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",
 
 # ==============================================
 # 📰 NOTÍCIAS
@@ -227,12 +250,22 @@ http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2422763
 # ==============================================
 # 🏰 DISNEY+
 # ==============================================
-#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Disney Channel
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Disney Junior
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Disney XD
-COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Evento 01
+http:\/\/dns.explouddev.com:80\/live\/501212992\/G1Dw4f\/232230.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Evento 01 op 2
+http:\/\/191.96.224.143:80\/live\/92370341211\/30082393260\/2335057
+#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Evento 02
+http:\/\/dns.explouddev.com:80\/live\/501212992\/G1Dw4f\/232234.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Evento 02 op 2
+http:\/\/191.96.224.143:80\/live\/92370341211\/30082393260\/2335058
+#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Evento 03
+http:\/\/dns.explouddev.com:80\/live\/501212992\/G1Dw4f\/232238.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Evento 03 op 2
+http:\/\/191.96.224.143:80\/live\/92370341211\/30082393260\/2335059
+#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Evento 04
+http:\/\/dns.explouddev.com:80\/live\/501212992\/G1Dw4f\/232242.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Evento 04 op 2
+http:\/\/191.96.224.143:80\/live\/92370341211\/30082393260\/2335060
 
 # ==============================================
 # ⚽ PREMIERE
@@ -269,6 +302,10 @@ http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/351780
 http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/380749.m3u8
 
 # ==============================================
+# 🏆 Paramount+
+# ==============================================
+
+# ==============================================
 # 👶 INFANTIL
 # ==============================================
 #EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/4TEXo8R.png" group-title="INFANTIL",Adult Swim
@@ -281,19 +318,34 @@ http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/352.m3u8
 http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/21230.m3u8
 #EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_cartoon0001.png" group-title="INFANTIL",Cartoon Network op 3
 http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/351135
-#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Cartoonito
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_cartoonito0001.png" group-title="INFANTIL",Cartoonito
 http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/110683.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Cartoonito op2
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_cartoonito0001.png" group-title="INFANTIL",Cartoonito op2
 http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/110684.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Cartoonito op3
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_cartoonito0001.png" group-title="INFANTIL",Cartoonito op3
 http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/351138
-#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Canal Infantil 8
-COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_discoverykids0001.png" group-title="INFANTIL",Discovery Kids
+http:\/\/dns.explouddev.com:80\/live\/501212992\/G1Dw4f\/364.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_discoverykids0001.png" group-title="INFANTIL",Discovery Kids op2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/351141
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_zoomoo0001.png" group-title="INFANTIL",DumDum
+http:\/\/dns.explouddev.com:80\/live\/501212992\/G1Dw4f\/311639.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_gloob0001.png" group-title="INFANTIL",Gloob
+http:\/\/dns.explouddev.com:80\/live\/501212992\/G1Dw4f\/377228.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_gloob0001.png" group-title="INFANTIL",Gloob op2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/351144
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_gloobinho0001.png" group-title="INFANTIL",Gloobinho
+http:\/\/dns.explouddev.com:80\/live\/501212992\/G1Dw4f\/377232.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_gloobinho0001.png" group-title="INFANTIL",Gloobinho op 2
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/351147
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_loading0001.png" group-title="INFANTIL",Loading
+https:\/\/stmv1.srvif.com\/loadingtv\/loadingtv\/playlist.m3u8
+#EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_tooncast0001.png" group-title="INFANTIL",Tooncast
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/351156
 
 # ==============================================
 # ⏰ 24 HORAS
 # ==============================================
-
 #EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png" group-title="DESENHOS",3 Palavrinhas
 http://dns.explouddev.com:80/live/632270679/F823j7133R/272799.m3u8
 #EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/DESENHOS-24-HORAS.png" group-title="DESENHOS",A Casa do Mickey Mouse
@@ -632,7 +684,7 @@ http://dns.explouddev.com:80/live/632270679/F823j7133R/272674.m3u8
 http://dns.explouddev.com:80/live/632270679/F823j7133R/272675.m3u8
 #EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png" group-title="SERIES",Todo Mundo Odeia o Chris 8
 http://dns.explouddev.com:80/live/632270679/F823j7133R/272676.m3u8
-#EXTINF:-1 group-title="SEM CATEGORIA",Tokusato
+#EXTINF:-1 group-title="SERIES",Tokusato
 http://dns.explouddev.com:80/live/632270679/F823j7133R/388486.m3u8
 #EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/SERIES-24-HORAS.png" group-title="SERIES",Um Maluco no Pedaço 1
 http://dns.explouddev.com:80/live/632270679/F823j7133R/272677.m3u8
@@ -749,7 +801,4 @@ http://dns.explouddev.com:80/live/632270679/F823j7133R/2532.m3u8
 
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_drivechannel0001.png" group-title="VARIEDADES",Drive Channel TV
 https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Variedades 7
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",Variedades 8
-COLE_AQUI_O_LINK_M3U8
+
