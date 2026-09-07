@@ -1,9 +1,242 @@
 #EXTM3U
 
-# Exemplo de entrada:
-#EXTINF:-1 group-title="TV ABERTA",Nome do Canal
-https://SEU-LINK-AUTORIZADO-AQUI
+# ==============================================
+# 📺 TV ABERTA
+# ==============================================
 
-# Cole as demais entradas mantendo o formato:
-#EXTINF:-1 group-title="CATEGORIA",Nome do Canal
-URL_DO_STREAM
+#EXTINF:-1 group-title="TV ABERTA",NOME DO CANAL
+COLE_AQUI_O_LINK_M3U8
+
+
+# ==============================================
+# 🎬 FILMES
+# ==============================================
+
+#EXTINF:-1 group-title="FILMES",NOME DO CANAL
+COLE_AQUI_O_LINK_M3U8
+
+
+# ==============================================
+# ⚽ ESPORTES
+# ==============================================
+
+#EXTINF:-1 group-title="ESPORTES",NOME DO CANAL
+COLE_AQUI_O_LINK_M3U8
+
+
+# ==============================================
+# 📰 NOTÍCIAS
+# ==============================================
+
+#EXTINF:-1 group-title="NOTÍCIAS",Canal de Notícias 1
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="NOTÍCIAS",Canal de Notícias 2
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="NOTÍCIAS",Canal de Notícias 3
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="NOTÍCIAS",Canal de Notícias 4
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="NOTÍCIAS",Canal de Notícias 5
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="NOTÍCIAS",Canal de Notícias 6
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="NOTÍCIAS",Canal de Notícias 7
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="NOTÍCIAS",Canal de Notícias 8
+COLE_AQUI_O_LINK_M3U8
+
+
+# ==============================================
+# 🏆 ESPN
+# ==============================================
+
+#EXTINF:-1 group-title="ESPN",ESPN
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="ESPN",ESPN 2
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="ESPN",ESPN 3
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="ESPN",ESPN 4
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="ESPN",ESPN 5
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="ESPN",ESPN 6
+COLE_AQUI_O_LINK_M3U8
+
+
+# ==============================================
+# 🎬 HBO MAX
+# ==============================================
+
+#EXTINF:-1 group-title="HBO MAX",HBO Max
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="HBO MAX",HBO
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="HBO MAX",HBO 2
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="HBO MAX",HBO Family
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="HBO MAX",HBO Mundi
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="HBO MAX",HBO Plus
+COLE_AQUI_O_LINK_M3U8
+
+
+# ==============================================
+# 🎬 HBO
+# ==============================================
+
+#EXTINF:-1 group-title="HBO",HBO
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="HBO",HBO 2
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="HBO",HBO Family
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="HBO",HBO Mundi
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="HBO",HBO Plus
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="HBO",HBO Pop
+COLE_AQUI_O_LINK_M3U8
+
+
+# ==============================================
+# 🎬 TELECINE
+# ==============================================
+
+#EXTINF:-1 group-title="TELECINE",Telecine Premium
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="TELECINE",Telecine Action
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="TELECINE",Telecine Touch
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="TELECINE",Telecine Pipoca
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="TELECINE",Telecine Cult
+COLE_AQUI_O_LINK_M3U8
+
+
+# ==============================================
+# 🏰 DISNEY+
+# ==============================================
+
+#EXTINF:-1 group-title="DISNEY+",Disney Channel
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="DISNEY+",Disney Junior
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="DISNEY+",Disney XD
+COLE_AQUI_O_LINK_M3U8
+
+
+# ==============================================
+# ⚽ PREMIERE
+# ==============================================
+
+#EXTINF:-1 group-title="PREMIERE",Premiere
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="PREMIERE",Premiere 2
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="PREMIERE",Premiere 3
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="PREMIERE",Premiere 4
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="PREMIERE",Premiere 5
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="PREMIERE",Premiere 6
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="PREMIERE",Premiere 7
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="PREMIERE",Premiere 8
+COLE_AQUI_O_LINK_M3U8
+
+
+# ==============================================
+# 🧸 INFANTIL
+# ==============================================
+
+#EXTINF:-1 group-title="INFANTIL",Canal Infantil 1
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="INFANTIL",Canal Infantil 2
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="INFANTIL",Canal Infantil 3
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="INFANTIL",Canal Infantil 4
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="INFANTIL",Canal Infantil 5
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="INFANTIL",Canal Infantil 6
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="INFANTIL",Canal Infantil 7
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="INFANTIL",Canal Infantil 8
+COLE_AQUI_O_LINK_M3U8
+
+
+# ==============================================
+# 📺 CANAIS 24 HORAS
+# ==============================================
+
+#EXTINF:-1 group-title="24 HORAS",24 Horas 1
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="24 HORAS",24 Horas 2
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="24 HORAS",24 Horas 3
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="24 HORAS",24 Horas 4
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="24 HORAS",24 Horas 5
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="24 HORAS",24 Horas 6
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="24 HORAS",24 Horas 7
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="24 HORAS",24 Horas 8
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="24 HORAS",24 Horas 9
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="24 HORAS",24 Horas 10
+COLE_AQUI_O_LINK_M3U8
+
+
+# ==============================================
+# 🎥 DOCUMENTÁRIOS
+# ==============================================
+
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",Documentários 1
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",Documentários 2
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",Documentários 3
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",Documentários 4
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",Documentários 5
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",Documentários 6
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",Documentários 7
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="DOCUMENTÁRIOS",Documentários 8
+COLE_AQUI_O_LINK_M3U8
+
+
+# ==============================================
+# 🎭 VARIEDADES
+# ==============================================
+
+#EXTINF:-1 group-title="VARIEDADES",Variedades 1
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="VARIEDADES",Variedades 2
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="VARIEDADES",Variedades 3
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="VARIEDADES",Variedades 4
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="VARIEDADES",Variedades 5
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="VARIEDADES",Variedades 6
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="VARIEDADES",Variedades 7
+COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 group-title="VARIEDADES",Variedades 8
+COLE_AQUI_O_LINK_M3U8
