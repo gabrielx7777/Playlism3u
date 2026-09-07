@@ -3,8 +3,90 @@
 # ==============================================
 # 📺 TV ABERTA
 # ==============================================
-#EXTINF:-1 tvg-logo="" group-title="TV ABERTA",NOME DO CANAL
-COLE_AQUI_O_LINK_M3U8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_band0001.png" group-title="TV ABERTA",Band SP
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/255465.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_band0001.png" group-title="TV ABERTA",Band RJ
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_band0001.png" group-title="TV ABERTA",Band MG
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/255482.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_band0001.png" group-title="TV ABERTA",Band BA
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/286193.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_band0001.png" group-title="TV ABERTA",Band Brasília
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/255472.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cancaonova0001.png" group-title="TV ABERTA",Canção Nova
+http://191.96.224.143:80/live/92370341211/30082393260/330181
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_futura0001.png" group-title="TV ABERTA",Futura
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/159.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="TV ABERTA",Globo BA
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="TV ABERTA",Globo SP
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/289881.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="TV ABERTA",Globo RJ
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/2376.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="TV ABERTA",Globo MG
+http://191.96.224.143:80/live/92370341211/30082393260/2190672
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="TV ABERTA",Globo Centro América
+http://dns.explouddev.com:80/501212992/G1Dw4f/2455.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="TV ABERTA",Globo Nordeste
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/2428.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="TV ABERTA",Globo TV Morena
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/274984.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="TV ABERTA",Globo Brasília
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/2452.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="TV ABERTA",Globo Inter TV Cabugi
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/2437.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="TV ABERTA",Globo Verde Mares
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/2434.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="TV ABERTA",Globo TV Diário CE
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/530124.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_globo0001.png" group-title="TV ABERTA",Globo Belém
+https://agropesca.live/live/globopa/index.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_gospelmovies0001.png" group-title="TV ABERTA",Gospel Movies Television
+https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_record0001.png" group-title="TV ABERTA",Record SP
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/244071.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_record0001.png" group-title="TV ABERTA",Record BA
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/558027.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_record0001.png" group-title="TV ABERTA",Record RJ
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/528661.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_record0001.png" group-title="TV ABERTA",Record PA
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/244129.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_record0001.png" group-title="TV ABERTA",Record RJ Alternativo
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_redebrasil0001.png" group-title="TV ABERTA",Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_redevida0001.png" group-title="TV ABERTA",Rede Vida
+http://191.96.224.143/live/92370341211/30082393260/330190
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_redetv0001.png" group-title="TV ABERTA",RedeTV! Opção 01
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/80170.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_redetv0001.png" group-title="TV ABERTA",RedeTV! Opção 02
+https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w1215849527.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sbt0001.png" group-title="TV ABERTA",SBT SP
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/244161.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sbt0001.png" group-title="TV ABERTA",SBT BA
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/377246.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sbt0001.png" group-title="TV ABERTA",SBT RJ
+https://iptv.vivatele.com/live/viva_padrao/viva2384/2.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sbt0001.png" group-title="TV ABERTA",SBT SC
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/244178.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sbt0001.png" group-title="TV ABERTA",SBT RS
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/244181.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sbt0001.png" group-title="TV ABERTA",SBT MG
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/244184.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvacritica0001.png" group-title="TV ABERTA",TV Acrítica Opção 01
+https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvacritica0001.png" group-title="TV ABERTA",TV Acrítica Opção 02
+https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvaparecida0001.png" group-title="TV ABERTA",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvbrasil0001.png" group-title="TV ABERTA",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvcultura0001.png" group-title="TV ABERTA",TV Cultura Opção 01
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w884249386.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvcultura0001.png" group-title="TV ABERTA",TV Cultura Opção 02
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w884249386.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvevangelizar0001.png" group-title="TV ABERTA",TV Evangelizar
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 
 # ==============================================
 # 🎬 FILMES
@@ -105,11 +187,52 @@ http:\/\/191.96.224.143:80\/live\/92370341211\/30082393260\/17574
 https:\/\/dfr80qz435crc.cloudfront.net\/EFGH\/Amagi\/Globo\/GE_Fast_BR\/GE_Fast.m3u8
 #EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_getv0001.png" group-title="ESPORTES",GE TV OP2
 http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/351528
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",
-
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",
-
-#EXTINF:-1 tvg-logo="" group-title="ESPORTES",
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportv0001.png" group-title="ESPORTES",SporTV
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/118881.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportv0001.png" group-title="ESPORTES",SporTV OP 2
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/21275.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportv0001.png" group-title="ESPORTES",SporTV OP 3
+http://173.208.194.186:80/live/92370341211/30082393260/350897
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportvtwo0001.png" group-title="ESPORTES",SporTV 2
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/554.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportvtwo0001.png" group-title="ESPORTES",SporTV 2 Op2
+http://173.208.194.186:80/live/92370341211/30082393260/350900
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportvthree0001.png" group-title="ESPORTES",SporTV 3
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/559.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportvthree0001.png" group-title="ESPORTES",SporTV 3 Op 2
+http://173.208.194.186:80/live/92370341211/30082393260/350903
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportvpt0001.png" group-title="ESPORTES",SporTV PT 4 PT
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/112002.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sportvpt0001.png" group-title="ESPORTES",SporTV PT 5 PT
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/112004.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U5OE999.png" group-title="ESPORTES",Prime Vídeo
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/537640.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U5OE999.png" group-title="ESPORTES",Prime Op 2
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/537642.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U5OE999.png" group-title="ESPORTES",Prime Op 3
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/537644.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U5OE999.png" group-title="ESPORTES",Prime Op 4
+http://173.208.194.186:80/live/92370341211/30082393260/1045739
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U5OE999.png" group-title="ESPORTES",Prime Op 5
+http://173.208.194.186:80/live/92370341211/30082393260/1045740
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U5OE999.png" group-title="ESPORTES",Prime Op 6
+http://173.208.194.186:80/live/92370341211/30082393260/1045741
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_nossofut0002.png" group-title="ESPORTES",SportyNet
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/301421.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_nossofut0002.png" group-title="ESPORTES",SportyNet op 2
+http://173.208.194.186:80/live/92370341211/30082393260/351347
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_nossofut0002.png" group-title="ESPORTES",SportyNet op3
+http://173.208.194.186:80/live/92370341211/30082393260/351348
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_nossofut0002.png" group-title="ESPORTES",SportyNet op4
+http://173.208.194.186:80/live/92370341211/30082393260/351349
+#EXTINF:-1 tvg-logo="https://i.imgur.com/paisBTw.png" group-title="ESPORTES",UFC 
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/250112.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/paisBTw.png" group-title="ESPORTES",UFC Op2
+http://173.208.194.186:80/live/92370341211/30082393260/353003
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_xsports0001.png" group-title="ESPORTES",XSports
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/580835.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_xsports0001.png" group-title="ESPORTES",XSports Op 2
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/580834.m3u8
 
 # ==============================================
 # 📰 NOTÍCIAS
@@ -250,21 +373,21 @@ http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/2422763
 # ==============================================
 # 🏰 DISNEY+
 # ==============================================
-#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Evento 01
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/IVkNsIJ.png" group-title="DISNEY+",Evento 01
 http:\/\/dns.explouddev.com:80\/live\/501212992\/G1Dw4f\/232230.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Evento 01 op 2
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/IVkNsIJ.png" group-title="DISNEY+",Evento 01 op 2
 http:\/\/191.96.224.143:80\/live\/92370341211\/30082393260\/2335057
-#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Evento 02
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/IVkNsIJ.png" group-title="DISNEY+",Evento 02
 http:\/\/dns.explouddev.com:80\/live\/501212992\/G1Dw4f\/232234.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Evento 02 op 2
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/IVkNsIJ.png" group-title="DISNEY+",Evento 02 op 2
 http:\/\/191.96.224.143:80\/live\/92370341211\/30082393260\/2335058
-#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Evento 03
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/IVkNsIJ.png" group-title="DISNEY+",Evento 03
 http:\/\/dns.explouddev.com:80\/live\/501212992\/G1Dw4f\/232238.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Evento 03 op 2
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/IVkNsIJ.png" group-title="DISNEY+",Evento 03 op 2
 http:\/\/191.96.224.143:80\/live\/92370341211\/30082393260\/2335059
-#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Evento 04
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/IVkNsIJ.png" group-title="DISNEY+",Evento 04
 http:\/\/dns.explouddev.com:80\/live\/501212992\/G1Dw4f\/232242.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DISNEY+",Evento 04 op 2
+#EXTINF:-1 tvg-logo="https:\/\/i.imgur.com\/IVkNsIJ.png" group-title="DISNEY+",Evento 04 op 2
 http:\/\/191.96.224.143:80\/live\/92370341211\/30082393260\/2335060
 
 # ==============================================
@@ -304,6 +427,22 @@ http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/380749.m3u8
 # ==============================================
 # 🏆 Paramount+
 # ==============================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YlKpabZ.png" group-title="Paramount+",Paramount+
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/250563.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YlKpabZ.png" group-title="Paramount+",Paramount+ op2
+http://173.208.194.186:80/live/92370341211/30082393260/351767
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YlKpabZ.png" group-title="Paramount+",Paramount+2 
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/368440.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YlKpabZ.png" group-title="Paramount+",Paramount+2 op2
+http://173.208.194.186:80/live/92370341211/30082393260/351768
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YlKpabZ.png" group-title="Paramount+",Paramount+3 
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/250571.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YlKpabZ.png" group-title="Paramount+",Paramount+3 op2
+http://173.208.194.186:80/live/92370341211/30082393260/351769
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YlKpabZ.png" group-title="Paramount+",Paramount+4
+http://dns.explouddev.com:80/live/501212992/G1Dw4f/368448.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YlKpabZ.png" group-title="Paramount+",Paramount+4 Op2
+http://173.208.194.186:80/live/92370341211/30082393260/351770
 
 # ==============================================
 # 👶 INFANTIL
@@ -734,22 +873,6 @@ http://dns.explouddev.com:80/live/632270679/F823j7133R/272706.m3u8
 # ==============================================
 # 🔬 DOCUMENTÁRIOS
 # ==============================================
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",Documentários 1
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",Documentários 2
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",Documentários 3
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",Documentários 4
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",Documentários 5
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",Documentários 6
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",Documentários 7
-COLE_AQUI_O_LINK_M3U8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIOS",Documentários 8
-COLE_AQUI_O_LINK_M3U8
 
 # ==============================================
 # 🎭 VARIEDADES
