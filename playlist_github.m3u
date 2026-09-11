@@ -51,7 +51,7 @@ http://dns.explouddev.com:80/live/501212992/G1Dw4f/558027.m3u8
 http://dns.explouddev.com:80/live/501212992/G1Dw4f/528661.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_record0001.png" group-title="TV ABERTA",Record PA
 http://dns.explouddev.com:80/live/501212992/G1Dw4f/244129.m3u8
-#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_record0001.png" group-title="TV ABERTA",Record RJ Alternativo
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_record0001.png" group-title="TV ABERTA",Record RJ Opção 02
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_redebrasil0001.png" group-title="TV ABERTA",Rede Brasil
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
@@ -73,9 +73,9 @@ http://dns.explouddev.com:80/live/501212992/G1Dw4f/244178.m3u8
 http://dns.explouddev.com:80/live/501212992/G1Dw4f/244181.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sbt0001.png" group-title="TV ABERTA",SBT MG
 http://dns.explouddev.com:80/live/501212992/G1Dw4f/244184.m3u8
-#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvacritica0001.png" group-title="TV ABERTA",TV Acrítica Opção 01
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvacritica0001.png" group-title="TV ABERTA",TV A Crítica Opção 01
 https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvacritica0001.png" group-title="TV ABERTA",TV Acrítica Opção 02
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvacritica0001.png" group-title="TV ABERTA",TV A Crítica Opção 02
 https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_tvaparecida0001.png" group-title="TV ABERTA",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
@@ -163,6 +163,50 @@ http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/3267343
 http:\/\/dns.explouddev.com:80\/live\/c683B3095j\/5873513\/749.m3u8
 #EXTINF:-1 tvg-logo="https:\/\/explouddev.com\/maxnettv\/logos\/mntv_warner0001.png" group-title="FILMES",Warner opçao 2
 http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/524440
+
+# ==============================================
+# 🔬 Cinema Sky
+# ==============================================
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 01
+http://dns.explouddev.com:80/live/287945811/148063/18253.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 02
+http://dns.explouddev.com:80/live/287945811/148063/18254.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 03
+http://dns.explouddev.com:80/live/287945811/148063/18255.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 04
+http://dns.explouddev.com:80/live/287945811/148063/18256.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 05
+http://dns.explouddev.com:80/live/287945811/148063/18257.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 06
+http://dns.explouddev.com:80/live/287945811/148063/18258.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 07
+http://dns.explouddev.com:80/live/287945811/148063/18259.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 08
+http://dns.explouddev.com:80/live/287945811/148063/18260.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 09
+http://dns.explouddev.com:80/live/287945811/148063/18261.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 10
+http://dns.explouddev.com:80/live/287945811/148063/560375.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 11
+http://dns.explouddev.com:80/live/287945811/148063/560376.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 12
+http://dns.explouddev.com:80/live/287945811/148063/560377.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 13
+http://dns.explouddev.com:80/live/287945811/148063/560378.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 14
+http://dns.explouddev.com:80/live/287945811/148063/560379.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 15
+http://dns.explouddev.com:80/live/287945811/148063/560380.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 16
+http://dns.explouddev.com:80/live/287945811/148063/560381.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 17
+http://dns.explouddev.com:80/live/287945811/148063/560382.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 18
+http://dns.explouddev.com:80/live/287945811/148063/560383.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 19
+http://dns.explouddev.com:80/live/287945811/148063/560384.m3u8
+#EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinesky0001.png" group-title="CINE SKY",Cine Sky 20
+http://dns.explouddev.com:80/live/287945811/148063/560385.m3u8
 
 # ==============================================
 # 🏆 ESPORTES
