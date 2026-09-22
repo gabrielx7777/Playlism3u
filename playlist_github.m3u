@@ -92,7 +92,7 @@ https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 # 🎬 FILMES
 # ==============================================
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_amc0001.png" group-title="FILMES",AMC
-http://dns.explouddev.com:80/live/c683B3095j/5873513/671.m3u8
+http:\/\/dns.explouddev.com:80\/live\/501212992\/G1Dw4f\/671.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_amc0001.png" group-title="FILMES",AMC opçao2
 http://173.208.194.186:80/live/92370341211/30082393260/524366
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_a&e0001.png" group-title="FILMES",A&E
@@ -116,9 +116,9 @@ http://dns.explouddev.com:80/live/c683B3095j/5873513/679.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_cinemax0001.png" group-title="FILMES",Cinemax op4
 http://173.208.194.186:80/live/92370341211/30082393260/524384
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_megapix0001.png" group-title="FILMES",Megapix
-http://dns.explouddev.com:80/live/c683B3095j/5873513/692.m3u8
+http:\/\/dns.explouddev.com:80\/live\/501212992\/G1Dw4f\/692.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_megapix0001.png" group-title="FILMES",Megapix op2
-http://173.208.194.186:80/live/92370341211/30082393260/524398
+http:\/\/173.208.194.186:80\/live\/92370341211\/30082393260\/524398
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sony0001.png" group-title="FILMES",Sony Channel
 http://dns.explouddev.com:80/live/c683B3095j/5873513/702.m3u8
 #EXTINF:-1 tvg-logo="https://explouddev.com/maxnettv/logos/mntv_sony0001.png" group-title="FILMES",Sony Channel op2
