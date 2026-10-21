@@ -51,3 +51,38 @@ http://191.96.224.143:80/live/92370341211/30082393260/2335019
 http://dns.explouddev.com:80/live/287945811/148063/121610.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZSYVVf.png" group-title="HBO MAX",HBO Max 4 OP 2
 http://191.96.224.143:80/live/92370341211/30082393260/2335020
+
+# ==============================================
+# 📺PREMIERE
+# ==========================================
+#EXTINF:-1 tvg-logo="" group-title="PREMIERE",PREMIERE
+http://dns.explouddev.com:80/live/287945811/148063/494.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIERE",PREMIERE OP2
+http://173.208.194.186:80/live/92370341211/30082393260/350906
+http://173.208.194.186:80/live/92370341211/30082393260/350909
+http://dns.explouddev.com:80/live/287945811/148063/499.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIERE",PREMIERE 2 OP2
+http://173.208.194.186:80/live/92370341211/30082393260/350909
+#EXTINF:-1 tvg-logo="" group-title="PREMIERE",PREMIERE 3
+http://dns.explouddev.com:80/live/287945811/148063/504.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIERE",PREMIERE 3 OP2
+http://173.208.194.186:80/live/92370341211/30082393260/350912
+#EXTINF:-1 tvg-logo="" group-title="PREMIERE",PREMIERE 4
+http://dns.explouddev.com:80/live/287945811/148063/509.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIERE",PREMIERE 4 OP2
+http://173.208.194.186:80/live/92370341211/30082393260/350915
+#EXTINF:-1 tvg-logo="" group-title="PREMIERE",PREMIERE 5
+http://dns.explouddev.com:80/live/287945811/148063/514.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIERE",PREMIERE 5 OP2
+http://173.208.194.186:80/live/92370341211/30082393260/350918
+#EXTINF:-1 tvg-logo="" group-title="PREMIERE",PREMIERE 6 
+http://dns.explouddev.com:80/live/287945811/148063/519.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIERE",PREMIERE 6 OP2
+http://173.208.194.186:80/live/92370341211/30082393260/350921
+#EXTINF:-1 tvg-logo="" group-title="PREMIERE",PREMIERE 7
+http://dns.explouddev.com:80/live/287945811/148063/524.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PREMIERE",PREMIERE 7 OP2
+http://173.208.194.186:80/live/92370341211/30082393260/351780
+#EXTINF:-1 tvg-logo="" group-title="PREMIERE",PREMIERE 8
+http://dns.explouddev.com:80/live/287945811/148063/380749.m3u8
+
