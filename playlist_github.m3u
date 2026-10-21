@@ -86,3 +86,14 @@ http://173.208.194.186:80/live/92370341211/30082393260/351780
 #EXTINF:-1 tvg-logo="" group-title="PREMIERE",PREMIERE 8
 http://dns.explouddev.com:80/live/287945811/148063/380749.m3u8
 
+# ==============================================
+# 📺TNT
+# ==========================================
+#EXTINF:-1 tvg-logo="" group-title="TNT",TNT
+http://dns.explouddev.com:80/live/287945811/148063/733.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TNT",TNT OP2
+http://dns.explouddev.com:80/live/287945811/148063/731.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TNT",TNT OP3
+http://173.208.194.186:80/live/92370341211/30082393260/524421
+
+
