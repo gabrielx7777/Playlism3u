@@ -107,4 +107,8 @@ http:\/\/dns.explouddev.com:80\/live\/287945811\/148063\/692.m3u8
 http:\/\/dns.explouddev.com:80\/live\/292330036\/5179425\/635.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILMES",Telecine Pipoca
 http:\/\/dns.explouddev.com:80\/live\/292330036\/5179425\/630.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES",HBO
+http:\/\/dns.explouddev.com:80\/live\/292330036\/5179425\/18751.m3u8
+
+
 
